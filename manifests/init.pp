@@ -4,8 +4,8 @@
 #
 #   include mailbox
 class mailbox {
-  package { 'Mailbox':
+  package { 'Mailbox (Beta)':
     provider => 'appdmg',
-    source   => 'https://download.mailboxapp.com/mac'
+    source   => 'https://download.mailboxapp.com/Mailbox-Beta-0.3.8.dmg'
   }
 }
