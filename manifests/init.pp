@@ -3,9 +3,9 @@
 # Examples
 #
 #   include mailbox
-class mailbox {
+class mailbox($version = '0.3.8') {
   package { 'Mailbox (Beta)':
     provider => 'appdmg',
-    source   => 'https://download.mailboxapp.com/Mailbox-Beta-0.3.8.dmg'
+    source   => "https://download.mailboxapp.com/Mailbox-Beta-${version}.dmg"
   }
 }
