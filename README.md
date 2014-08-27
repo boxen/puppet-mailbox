@@ -1,6 +1,5 @@
 # Mailbox Puppet Module for Boxen
-[![Build
-Status](https://travis-ci.org/nickpellant/puppet-mailbox.png?branch=master)](https://travis-ci.org/nickpellant/puppet-mailbox)
+[![Build Status](https://travis-ci.org/boxen/puppet-mailbox.svg?branch=master)](https://travis-ci.org/boxen/puppet-mailbox)
 
 Install [Mailbox](http://mailboxapp.com). Currently a [betacoin](http://www.mailboxapp.com/help/#/6246) is required to use Mailbox for Mac while in beta.
 
